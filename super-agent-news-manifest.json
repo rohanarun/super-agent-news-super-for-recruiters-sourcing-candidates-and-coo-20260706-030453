@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "Business Standard",
+      "title": "Workflow sync crucial to get maximum AI returns",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONUcxS1paUlMtYldaaFk5c21CdXJnZ3NveXBVOGI4T0FONTNpQW4xTHhNYlNjWklQWWhHSWI0bjZEM2hqd0N1dnJaSmJiTnJQYzg5SGRXbThKN0pVcmpfTGRWWUlENk9nUTUwNXRhdXNZeS1FNk1IRGFod3N6SHk0TF9CNFNuS0ZpUldFQ1YtZG9IUXlYemlXQ0tNMHRLNS1Ua2I2TUg2cWNtUzRZMG9KemU2UnktOWFROE5HZzZfLUNjNUxhQnJZZXBHQWdmQjBzMHNZSko4bFNWdzIyOVRzZHk1Rzh2V2dZUjVV0gHwAUFVX3lxTE52eXhUdTlxTGhXMWUyLWRWLWppYXFYczBQN2steTJXWWFPQlBGNEUwSjQ1NXVvdVdHSVN0U1k3Zk1LaTVsNFh2NEpsVlNMS3MwYVNMNXNGcldjVVE2aERNV2Ixb2xQQW5Id2xEUFNkdGczeWMxQzljSEtSbmZ6WmxvUFlZcDJzTzNoZjhKc0lGNWVUdXhCT1B4aEVqVkl1Ym5waWZGb1p5aG5fTHhieWtTX09QMThJMmVuRHhWTUdkbjJUdzNXOF96YU9xOWF1eWJ1YU4tQVhZdkxGaFFVZVZNcWcxc2NwbmNxMDBrNHRweg?oc=5"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://www.scmagazine.com/"
+    },
+    {
+      "source": "HRTech Series",
+      "title": "uRecruits Launches 2.0 With 7 Connected Hiring Capabilities and Recruiter-Controlled AI Agents",
+      "url": "https://www.hrtechseries.com/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed = hash('Super for recruiters sourcing candidates and coordinating interviews' + 'niche_landing' + 'recruiters sourcing candidates and coordinating interviews' + '2026-07-06T03:04:05.310285+00:00') \u2192 architecture=workflow-command-center, type=Cabinet Grotesk. AIDA Check: Hero (Attention), Proof & market context (Interest), Workflow demos & guide (Desire), CTA band (Action). Font Selection: Cabinet Grotesk primary with system fallbacks. Hero Math Verification: clamp(44px\u201376px) over max-width 1120px yields consistent 2\u20133 line headline at common breakpoints. Bento Density Verification: compare-grid and bento use grid-auto-flow: dense to avoid gaps. GSAP Motion Selection: image-scale-fade-scroll + hover-physics with guards if GSAP unavailable. Label Sweep & Button Check: All CTAs high-contrast black/white pills linking to Super app; competitor labels present (Folk, Orchids, Siri, ChatGPT, Gemini, Grok).",
+  "generated_at": "2026-07-06T03:04:59.468188+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A premium niche landing page showing how recruiters can use Super\u2019s personal AI agents to source candidates, operate real hiring tools, coordinate interviews, and reuse a computer-use cache for faster, cheaper repeated workflows\u2014grounded in current agentic AI and workflow automation evidence."
+}
